@@ -1,4 +1,3 @@
-print("HIMAJA BARDHAN 22BCE0184")
 
 # i) Create a data frame with student details
 students <- data.frame(
